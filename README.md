@@ -3,18 +3,19 @@ this is program in my university and i do it.
 
 ## explanation :
 
-here i'm gonna make this is project to my professor
+here i'm gonna make this is project to my professor <br>
 this is prroject when pressed change the LEDs
 
 ### here details
 
-Control traffic lights with a push button
+Control traffic lights with a push button<br>
 
 Design the circuit and write the code when you push the button, the red light continous  for 10s
-
-• Red light  on for 5 seconds
-•	Yellow light on for 3 seconds
-•	Green light on for 5 seconds
+<br>
+<br>
+• Red light  on for 5 seconds<br>
+•	Yellow light on for 3 seconds<br>
+•	Green light on for 5 seconds<br>
 
 ## important :
 
